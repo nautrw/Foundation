@@ -1,3 +1,8 @@
+---
+aliases:
+  - joint-stock companies
+  - joint-stock company
+---
 - **Joint-Stack companies** were formed by groups of private investors pooling their money
 	- Investors bought shares to split the risk
 	- Profits were split along investors according to the amount of shares they owned

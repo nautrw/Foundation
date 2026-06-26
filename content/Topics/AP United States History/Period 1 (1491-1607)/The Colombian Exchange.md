@@ -2,9 +2,6 @@
 aliases:
   - the colombian exchange
 ---
-Good external resources:
-- [(Youtube) The Columbian Exchange - Khan Academy](https://www.youtube.com/watch?v=pLijVYVDKlc)
-
 The **Columbian exchange** was the transfer of plants, animals, minerals, diseases, and people between the Americas and Europe. 
 ![the columbian exchange|697](https://mtviewmirror.com/wp-content/uploads/Columbian-Exchange.jpg)[^1]
 ![The Columbian exchange of crop plants, livestock, and diseases went in both directions between the Old World and the New World.](https://upload.wikimedia.org/wikipedia/commons/7/77/BRI_Columbian_Exchange.jpg)[^2]
@@ -36,6 +33,9 @@ The **Columbian exchange** was the transfer of plants, animals, minerals, diseas
 	- All groups involved got more military power
 - **Rubber** was introduced from the Americas to Europe
 	- Allowed for many goods like waterproof clothing
+
+# Resources
+- [(Youtube; Khan Academy) The Columbian Exchange](https://www.youtube.com/watch?v=pLijVYVDKlc)
 
 [^1]: Source: https://mtviewmirror.com/the-columbian-exchange-biology-matters/
 

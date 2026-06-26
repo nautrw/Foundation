@@ -26,5 +26,7 @@ Most Native American tribes sought to keep their independence and way of live af
 		- Slavery
 	- This caused the Spanish to tolerated the Pueblo people a little bit more
 	- People began to intermarry and syncretize
+# Resources
+- [(Youtube; Historia Civilis) The Iroquois Confederacy](https://www.youtube.com/watch?v=S4gU2Tsv6hY)
 
 [^1]: Source: https://community.weber.edu/WeberReads/iroquois_confederacy.htm

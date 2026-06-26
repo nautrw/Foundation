@@ -44,6 +44,8 @@ Spanish monarchs **Ferdinand** and **Isabella** funded Cristopher Columbus' expe
 - **Juan de Sepulveda** was a Spanish scholar that published a book called *Just Causes for War Against the Indians*
 	- It justified the Spanish oppression of Natives by describing them as barbarians and that they needed to be civilized by Christian Europeans
 - [[Encomiendas#Bartolomé de las Casas|Bartolomé de las Casas]] argued that natives should be treated fairly
-- The **Valladolid debate** was held between the both of them, but there was no clear winner
+- The **Valladolid debate** was held between the both of them in 1550-1551, but there was no clear winner
+# Resources
+- [(Youtube; Khan Academy) Spanish colonization | Period 1: 1491-1607 | AP US History | Khan Academy](https://www.youtube.com/watch?v=uWj0GCvn_Oo)
 
 [^1]: Source: <a href="https://study.com/academy/lesson/hierarchy-in-the-workplace-in-hispanic-countries.html">Hierarchy in the Workplace in Hispanic Countries</a>

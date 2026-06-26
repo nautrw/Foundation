@@ -17,12 +17,13 @@
 	- Marked the beginning of England's rise as a naval power
 - The English made peace with Spain in 1604
 - They started their first permanent settlement in North America in 1607, named **Jamestown**
-	- Founded by the **Virginia Company**, a [[Spanish Exploration in the Americas#Gold (Economic Development)|joint-stock company]]
+	- Founded by the **Virginia Company**, a [[Joint-Stock Companies|joint-stock company]]
 		- It was largely profit-driven
 		- Colonists came unprepared (didn't grow their own food)
 - Lots of people died during **Starving Time** (1609-1610)
 	- 500 residents at Jamestown by the beginning of winter
 	- 61 remained alive by spring
+	- Caused by poor planning, strained regulations with the surrounding natives, drought, and lack of agricultural skills
 	- **John Smith** introduced a policy in which people that didn't work got no food
 - **John Rolfe** introduced tobacco for profit
 	- Causes a boom in economic development

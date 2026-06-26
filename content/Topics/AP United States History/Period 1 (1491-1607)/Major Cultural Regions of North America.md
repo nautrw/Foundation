@@ -13,14 +13,14 @@ Native American societies were very big and complex.
 - Semi-sedentary farmers
 	- Hunter-gatherers for half the year and farmed [[Maize|maize]] for the other
 - Example: **Iroquois**
-	- Actually a family of different tribes that spoke the same language (check [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]])
+	- Actually a family of different tribes that spoke the same language, formed alliances (check [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]])
 	- Used lots of wood for housing because trees were widely available for them
 	- Matrilineal culture (power and possessions passed down the mother's side)
 # Southeast
 - Very fertile soil
 - Grew [[Topics/AP United States History/Period 1 (1491-1607)/Maize|maize]], beans, and squash
 - Very big societies
-- Example: **Cherokee**
+- Example: **Cherokee**, Creek
 ## Mississippi River Valley
 - Subset of the Southeast
 - Plenty of vegetation allowed for massive settlements
@@ -31,7 +31,12 @@ Native American societies were very big and complex.
 - No natural resources or fertile soil
 - Hunted bison instead
 - Mostly nomadic hunter-gatherers
-- Example: **Sioux** 
+- Example: **Sioux**, Cheyenne, Crow, Comanche
+# Great Basin
+- Very little resources or rainfall
+- Dry and deserted
+- Nomadic hunter-gatherers and moved with the seasons
+- Example: **Ute**, Paiute, Shoshone
 # Southwest
 - Grew [[Maize|maize]], squash, and beans
 	- They set up complex irrigation systems to bring water to their crops because it was very dry
@@ -39,6 +44,9 @@ Native American societies were very big and complex.
 # Pacific Northwest
 - Nearly infinite resources from fishing, forests, and animals
 - Example: **Chinook**
+# Resources
+- [(Youtube; Khan Academy) Native American societies before contact | Period 1: 1491-1607 | AP US History | Khan Academy](https://www.youtube.com/watch?v=Ht0FW7RwRmc)
+- [(Youtube; APUSH Slides) #2 - APUSH 1.2 Native American Societies Before European Contact \[UPDATED\]](https://www.youtube.com/watch?v=ZRoj-M5cqic)
 
 [^1]: By <a href="//commons.wikimedia.org/wiki/User:Nikater" title="User:Nikater">User:Nikater</a> - <a href="//commons.wikimedia.org/w/index.php?title=File:Nordamerikanische_Kulturareale_en.png&amp;action=edit&amp;redlink=1" class="new" title="File:Nordamerikanische Kulturareale en.png (page does not exist)">File:Nordamerikanische_Kulturareale_en.png</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=85126519">Link</a>
 [^2]: Source: [Native American Tribes Map - American History Poster](https://www.posterenvy.com/native-american-tribes-map-american-history-poster/)

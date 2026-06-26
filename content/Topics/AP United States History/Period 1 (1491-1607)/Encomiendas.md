@@ -1,10 +1,18 @@
+---
+aliases:
+  - encomiendas
+  - encomienda
+  - Encomienda
+  - encomendero
+  - Encomendero
+---
 - **Encomiendas** were a labor system enforced by the Spanish
 - Land was given to Spanish colonists (*encomenderos*)
 - Indigenous people were forced to work in plantations and mines
 - The colonists were supposed to provide protection and Christian education
 - In practice, it just became slavery
 - Cash crops like sugarcane and tobacco were grown
-- It was abolished in 1542 and replaced with a less harsh system
+- It was abolished in 1542 and replaced with a less harsh system (New Laws of 1542)
 # Laws of Burgos
 - The **Laws of Burgos** were a set of laws promulgated in 1512 in Spain that forbade the maltreatment of natives and endorsed their conversion to Catholicism
 	- At first, restricted to Hispaniola, but later extended to Puerto Rico and Jamaica
@@ -18,7 +26,7 @@
 - Witnessed many of the abuses of the encomienda system
 - Advocated for the Native Americans
 - Said that the natives should be converted peacefully and that the Spanish should be more like guests instead of conquerors
-- Published a book called *A Short Account of the Destruction of the Indies*
+- Published a book called *A Short Account of the Destruction of the Indies* in 1542
 	- Detailed many of the abuses against the Native Americans
 - The **New Laws of 1542** were issued to protect the indigenous peoples in the New World as a result of his advocacy
 	- Enslavement of natives and inheritance of Encomiendas were banned
