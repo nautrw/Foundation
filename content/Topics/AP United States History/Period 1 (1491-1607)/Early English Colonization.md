@@ -1,9 +1,13 @@
 # Background
 - Spain and England became enemies when King Henry VIII left the Catholic Church and formed The Church of England in 1527
-- The Anglo-Spanish war (1575-1604) broke out between England and Spain as a result of colonial ambitions and religious tensions from the reformation
+- The **Anglo-Spanish war** (1575-1604) broke out between England and Spain as a result of colonial ambitions and religious tensions from the reformation
 # Roanoke Colony
 - **Sir Walter Raleigh** was an English statesman who wanted to start an English colony in North America
-- He established **Roanoke Colony** in the 1580s, but failed because the English couldn't send supplies over because they were fighting the Anglo-Spanish war
+- He established **Roanoke Colony** in 1585, but failed because the English couldn't send supplies over because they were fighting the Anglo-Spanish war
+- It was found mysteriously deserted in 1590
+	- The governor at the time took a supply trip to England 
+	- Because the Anglo-Spanish war was going on, he wasn't able to get there until much later
+![roanoke colony map](https://i.natgeofe.com/n/a7261ffd-d9f0-4e9d-a774-0e13d5dd40ca/74165.jpg?w=300&h=323)[^2]
 # Chesapeake Colonies
 - First successful English colonies
 - Located in what is now Maryland and Virginia ([[Major Cultural Regions of North America#Southeast|Southeast region]])
@@ -13,7 +17,7 @@
 	- Marked the beginning of England's rise as a naval power
 - The English made peace with Spain in 1604
 - They started their first permanent settlement in North America in 1607, named **Jamestown**
-	- Founded by the **Virginia Company**, a [[European Exploration in the Americas#Gold (Economic Development)|joint-stock company]]
+	- Founded by the **Virginia Company**, a [[Spanish Exploration in the Americas#Gold (Economic Development)|joint-stock company]]
 		- It was largely profit-driven
 		- Colonists came unprepared (didn't grow their own food)
 - Lots of people died during **Starving Time** (1609-1610)
@@ -22,5 +26,8 @@
 	- **John Smith** introduced a policy in which people that didn't work got no food
 - **John Rolfe** introduced tobacco for profit
 	- Causes a boom in economic development
+- The first enslaved Africans arrived in August 1619
 
 [^1]: Source: https://www.khanacademy.org/humanities/us-history/colonial-america/x71a94f19:unit-overview-unit-2/a/unit-2-overview
+
+[^2]: Illustration by North Wind Picture Archives/Alamy; https://www.nationalgeographic.com/history/article/131208-roanoke-lost-colony-discovery-history-raleigh

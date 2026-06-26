@@ -7,16 +7,18 @@ aliases:
 Native American societies were very big and complex. 
 # Maps
 ![Classification of indigenous peoples of North America according to Alfred Kroeber|425](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/North_American_cultural_areas.png/960px-North_American_cultural_areas.png?_=20191222053532)[^1]
-![north american native tribes|317](https://cdn10.bigcommerce.com/s-ehq9w/products/1118/images/2341/ss104thumb%252520-%252520Native%252520American%252520Tribes%252520Map__44905.1409339964.1280.1280.jpg?c=2)[^2]
+![north american native tribes|424](https://cdn10.bigcommerce.com/s-ehq9w/products/1118/images/2341/ss104thumb%252520-%252520Native%252520American%252520Tribes%252520Map__44905.1409339964.1280.1280.jpg?c=2)[^2]
 # Northeast
 - Plenty of vegetation
 - Semi-sedentary farmers
 	- Hunter-gatherers for half the year and farmed [[Maize|maize]] for the other
 - Example: **Iroquois**
+	- Actually a family of different tribes that spoke the same language (check [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]])
 	- Used lots of wood for housing because trees were widely available for them
+	- Matrilineal culture (power and possessions passed down the mother's side)
 # Southeast
 - Very fertile soil
-- Grew maize, beans, and squash
+- Grew [[Topics/AP United States History/Period 1 (1491-1607)/Maize|maize]], beans, and squash
 - Very big societies
 - Example: **Cherokee**
 ## Mississippi River Valley
@@ -24,6 +26,7 @@ Native American societies were very big and complex.
 - Plenty of vegetation allowed for massive settlements
 - Example: **Cahokia**
 	- Huge settlement (tens of thousands of residents)
+- These cultures disappeared around the 1500s, close to when the Europeans arrived
 # Great Plains
 - No natural resources or fertile soil
 - Hunted bison instead
@@ -32,7 +35,6 @@ Native American societies were very big and complex.
 # Southwest
 - Grew [[Maize|maize]], squash, and beans
 	- They set up complex irrigation systems to bring water to their crops because it was very dry
-- Many buildings of adobe
 - Example: **Pueblo**
 # Pacific Northwest
 - Nearly infinite resources from fishing, forests, and animals
