@@ -7,7 +7,7 @@
 - It was found mysteriously deserted in 1590
 	- The governor at the time took a supply trip to England 
 	- Because the Anglo-Spanish war was going on, he wasn't able to get there until much later
-![roanoke colony map](https://i.natgeofe.com/n/a7261ffd-d9f0-4e9d-a774-0e13d5dd40ca/74165.jpg?w=300&h=323)[^2]
+![roanoke colony map|309](https://i.natgeofe.com/n/a7261ffd-d9f0-4e9d-a774-0e13d5dd40ca/74165.jpg?w=300&h=323)[^2]
 # Chesapeake Colonies
 - First successful English colonies
 - Located in what is now Maryland and Virginia ([[Major Cultural Regions of North America#Southeast|Southeast region]])
