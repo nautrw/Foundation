@@ -20,7 +20,7 @@ title: 🌎 Period 1 (1491-1607)
 	- New Laws of 1542 are established, giving rights to Native Americans
 - **1564-1565**: Fort Caroline established by the French in Florida and destroyed by the Spanish
 - **Late 1500s**: Formation of the [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]]
-# [[Topics/AP United States History/Period 1 (1491-1607)/Early English Colonization|Early English Colonization]]
+# [[Early English Colonization|Early English Colonization]]
 - **1575**: Start of the [[Early English Colonization#Background|Anglo-Spanish war]]
 - ==1585==: [[Early English Colonization#Roanoke Colony|Roanoke Colony]] is established by Sir Walter Raleigh
 - **1588**: England defeats the Spanish Armada

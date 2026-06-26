@@ -18,7 +18,7 @@ Native American societies were very big and complex.
 	- Matrilineal culture (power and possessions passed down the mother's side)
 # Southeast
 - Very fertile soil
-- Grew [[Topics/AP United States History/Period 1 (1491-1607)/Maize|maize]], beans, and squash
+- Grew [[Maize|maize]], beans, and squash
 - Very big societies
 - Example: **Cherokee**, Creek
 ## Mississippi River Valley

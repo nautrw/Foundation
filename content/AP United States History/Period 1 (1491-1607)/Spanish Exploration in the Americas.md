@@ -18,7 +18,7 @@ Spanish monarchs **Ferdinand** and **Isabella** funded Cristopher Columbus' expe
 - Spain sent conquistadors to expand the Spanish empire and send the wealth back to them
 	- [[The Colombian Exchange]] was established to trade resources between the New and Old Worlds
 	- Hernán Cortés conquered the Aztec empire with a few hundred men
-		- [[Topics/AP United States History/Period 1 (1491-1607)/The Colombian Exchange#Diseases|Diseases]] from [[Topics/AP United States History/Period 1 (1491-1607)/The Colombian Exchange|the Colombian exchange]] killed many indigenous people, which helped with the conquest
+		- [[The Colombian Exchange#Diseases|Diseases]] from [[The Colombian Exchange|the Colombian exchange]] killed many indigenous people, which helped with the conquest
 		- Gunpowder
 	- Many new labor systems were set up and enforced by the Spanish
 		- This allowed them to grow cash crops like **sugarcane**, **tobacco**, **cotton**, and more
