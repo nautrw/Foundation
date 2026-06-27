@@ -28,7 +28,10 @@
 - **John Rolfe** introduced tobacco for profit
 	- Causes a boom in economic development
 - The first enslaved Africans arrived in August 1619
+![Map showing location of Jamestown and Roanoke Island Colonies|456](https://upload.wikimedia.org/wikipedia/commons/b/b2/Map_showing_location_of_Jamestown_and_Roanoke_Island_Colonies.PNG)[^3]
 
 [^1]: Source: https://www.khanacademy.org/humanities/us-history/colonial-america/x71a94f19:unit-overview-unit-2/a/unit-2-overview
 
 [^2]: Illustration by North Wind Picture Archives/Alamy; https://www.nationalgeographic.com/history/article/131208-roanoke-lost-colony-discovery-history-raleigh
+
+[^3]: Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=98899360">Link</a>

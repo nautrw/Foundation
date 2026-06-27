@@ -1,7 +1,6 @@
 ---
 title: 🌎 Period 1 (1491-1607)
 ---
-
 # Timeline
 ## [[Major Cultural Regions of North America|Pre-Columbian Societies]]
 - **1491**: Symbolic date representing the time before Europeans made contact with America

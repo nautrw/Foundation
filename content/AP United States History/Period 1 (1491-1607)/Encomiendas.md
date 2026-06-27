@@ -8,6 +8,7 @@ aliases:
 ---
 - **Encomiendas** were a labor system enforced by the Spanish
 - Land was given to Spanish colonists (*encomenderos*)
+	- They didn't actually own the land
 - Indigenous people were forced to work in plantations and mines
 - The colonists were supposed to provide protection and Christian education
 - In practice, it just became slavery
