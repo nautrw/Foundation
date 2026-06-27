@@ -8,3 +8,16 @@
 .page-listing {
   display: none;
 }
+
+body p {
+  color: var(--text-normal);
+}
+
+body > .graph > .graph-outer {
+  border: 10px solid var(--text-normal) !important;
+}
+
+img {
+  max-width: 60%;
+  max-height: 60%;
+}
