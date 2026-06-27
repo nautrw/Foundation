@@ -1,5 +1,7 @@
 1. Starting with:
-$$ax^{2}+bx+c=0$$
+$$
+ax^{2}+bx+c=0
+$$
 2. Remove $c$ from both sides:
 $$
 \begin{aligned}
@@ -40,11 +42,17 @@ $$
 \sqrt{\left(x+\frac{b}{2a}\right)^2}=\sqrt{\frac{b^{2}-4ac}{4a^{2}}}
 $$
 9. Simplify the left side
-$$x+\frac{b}{2a}=\sqrt{\frac{b^{2}-4ac}{4a^{2}}}$$
+$$
+x+\frac{b}{2a}=\sqrt{\frac{b^{2}-4ac}{4a^{2}}}
+$$
 10. Add the plus-minus sign to the right side of the equation because there are 2 solutions
-$$x+\frac{b}{2a}=\pm\sqrt{\frac{b^{2}-4ac}{4a^{2}}}$$
+$$
+x+\frac{b}{2a}=\pm\sqrt{\frac{b^{2}-4ac}{4a^{2}}}
+$$
 11. Isolate the $x$ on the left by subtracting both sides by $\frac{b}{2a}$
-$$x+\frac{b}{2a}\textcolor{red}{-\frac{b}{2a}}=\pm\frac{\sqrt{b^{2}-4ac}}{2a}\textcolor{red}{-\frac{b}{2a}}$$
+$$
+x+\frac{b}{2a}\textcolor{red}{-\frac{b}{2a}}=\pm\frac{\sqrt{b^{2}-4ac}}{2a}\textcolor{red}{-\frac{b}{2a}}
+$$
 12. Simplify
 $$
 \begin{aligned}
