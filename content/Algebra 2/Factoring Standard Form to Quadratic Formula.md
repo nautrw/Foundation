@@ -33,7 +33,7 @@ x^{2}+\frac{b}{a}x+\frac{b^{2}}{4a^{2}}&=\frac{-c}{a}\textcolor{red}{\left(\frac
 x^{2}+\frac{b}{a}x+\frac{b^{2}}{4a^{2}}&=\frac{b^2-4ac}{4a^2}
 \end{aligned}
 $$
-7. Simplify the trinomial on the left side into the square of a binomial
+7. Simplify the perfect square trinomial on the left side into its factored form
 $$
 \left(x+\frac{b}{2a}\right)^2=\frac{b^2-4ac}{4a^2}
 $$
