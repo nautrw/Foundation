@@ -16,7 +16,7 @@ $$
 x^{2}+\frac{b}{a}x&=\frac{-c}{a}
 \end{aligned}
 $$
-4. Divide the coefficient of the linear term ($\frac{b}{a}$)  by 2 and raise it to the 2nd power
+4. Divide the coefficient of the linear term ($\frac{b}{a}$)  by 2 and raise it to the 2nd power (This is called completing the square; some resources: [math is fun](https://www.mathsisfun.com/algebra/completing-square.html), or [lesson by Khan Academy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/v/solving-quadratic-equations-by-completing-the-square))
 $$
 \left(\frac{\frac{b}{a}}{2}\right)^{2} = \left(\frac{b}{2a}\right)^{2}=\frac{b^2}{4a^{2}}
 $$
