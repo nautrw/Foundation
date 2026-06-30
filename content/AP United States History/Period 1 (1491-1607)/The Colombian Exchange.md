@@ -27,6 +27,7 @@ The **Columbian exchange** was the transfer of plants, animals, minerals, diseas
 # People
 - There were small amounts of indigenous Americans brought to the Old World
 - Millions of enslaved Africans were transferred to colonies in the New World in order to work in cash crop plantations
+	- Also happened because the diseases killed so many people
 # Other
 - **Firearms** and **gunpowder** were introduced to the Americas from Europe
 	- Caused arms races and changes in power dynamics between tribes

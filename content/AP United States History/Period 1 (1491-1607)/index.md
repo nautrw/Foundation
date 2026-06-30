@@ -2,9 +2,11 @@
 title: 🌎 Period 1 (1491-1607)
 ---
 # Timeline
-## [[Major Cultural Regions of North America|Pre-Columbian Societies]]
+## Background, [[Major Cultural Regions of North America|Pre-Columbian Societies]]
+- **1469**: Spain is unified by the marriage of Isabella of Castile and Ferdinand II of Aragon
+- **1482-1492**: [Ferdinand and Isabella complete the Reconquista, fully taking back Spain from Muslim rule](https://en.wikipedia.org/wiki/Reconquista#Granada_War_and_the_end_of_Muslim_rule)
 - **1491**: Symbolic date representing the time before Europeans made contact with America
-	- **~14,000 B.C.**: People first arrive to the Americas through the [Bering Strait](https://en.wikipedia.org/wiki/Bering_Strait) between Russia and Canada
+	- **~14,000 B.C.**: People first arrive to the Americas through the [Bering Strait](https://en.wikipedia.org/wiki/Bering_Strait) between Russia and Canada (it disappeared when the ice age ended)
 	- **~8,000 B.C**: Domestication of [[Maize|maize]] in southern Mexico
 	- [[Major Cultural Regions of North America|Pre-Columbian Societies]] formed
 ## [[Spanish Exploration in the Americas|Spanish Colonization]]
@@ -13,7 +15,7 @@ title: 🌎 Period 1 (1491-1607)
 - **1494**: [[Treaty of Tordesillas]]
 - ==1500s==: Disappearance of [[Major Cultural Regions of North America#Mississippi River Valley|Mississippian cultures]]
 - **1512**: [[Encomiendas#Laws of Burgos|Laws of Burgos]] established, giving rights to Native Americans
-- Spain establishes the [[Encomiendas|encomienda]] system
+	- ==Establishes the [[Encomiendas|encomienda]] system==
 - ==1521==: [[Spanish Exploration in the Americas#Gold (Economic Development)|Hernan Cortes conquers the Aztecs]]
 - ==1542==: [[Encomiendas#Bartolomé de las Casas|Bartolomé de las Casas]] writes his book about the abuses of the [[Encomiendas|encomienda]] system
 	- New Laws of 1542 are established, giving rights to Native Americans

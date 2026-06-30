@@ -18,7 +18,7 @@ Most Native American tribes sought to keep their independence and way of live af
 ![Iroquois confederacy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcommunity.weber.edu%2Fweberreads%2Firoquois%2520map.jpg&f=1&nofb=1&ipt=875341fcc6eebaff1d097552fd55f53133e0904f316e36b374cf72a21dc53333)[^1]
 # Rebellions
 - Other tribes outright rebelled against colonists
-- The **Pueblo rebellion** of 1680 was a failed rebellion in which the Pueblo people killed Spaniards and burned churches
+- The **Pueblo rebellion** of 1680, also known as **Popé's rebellion**, was a failed rebellion in which the Pueblo people killed Spaniards and burned churches
 	- Causes:
 		- Forced conversion to Catholicism
 		- Missionaries burned sacred objects

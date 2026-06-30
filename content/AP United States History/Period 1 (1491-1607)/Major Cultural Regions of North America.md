@@ -13,7 +13,7 @@ Native American societies were very big and complex.
 - Semi-sedentary farmers
 	- Hunter-gatherers for half the year and farmed [[Maize|maize]] for the other
 - Example: **Iroquois**
-	- Actually a family of different tribes that spoke the same language, formed alliances (check [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]])
+	- Actually a family of different tribes that spoke the same language, formed alliances (The [[Native Resistance#Iroquois Confederacy|Iroquois Confederacy]])
 	- Used lots of wood for housing because trees were widely available for them
 	- Matrilineal culture (power and possessions passed down the mother's side)
 # Southeast

@@ -11,21 +11,21 @@ Spanish monarchs **Ferdinand** and **Isabella** funded Cristopher Columbus' expe
 	- The **compass** (for direction) and **astrolabe** (general navigation) were used for navigation
 	- Better **cartography** (mapmaking) techniques
 	- Better ships like the Portuguese **Caravel** were used in Columbus' expeditions
-		- It was faster and more maneuverable
-		- Could sail against the wind
+		- Due to the *lateen sail*, it was faster and could sail in both directions
 	- The invention of **gunpowder** gave the Spanish explorers a massive military advantage
 		- They could defeat large indigenous armies with few men
-- Spain sent conquistadors to expand the Spanish empire and send the wealth back to them
+- Spain sent **conquistadors** to expand the Spanish empire and send the wealth back to them
 	- [[The Colombian Exchange]] was established to trade resources between the New and Old Worlds
-	- Hernán Cortés conquered the Aztec empire with a few hundred men
+	- **Hernán Cortés** conquered the Aztec empire with a few hundred men in 1521
 		- [[The Colombian Exchange#Diseases|Diseases]] from [[The Colombian Exchange|the Colombian exchange]] killed many indigenous people, which helped with the conquest
-		- Gunpowder
+		- **Gunpowder** allowed small groups of armed men to fight many more people
 	- Many new labor systems were set up and enforced by the Spanish
 		- This allowed them to grow cash crops like **sugarcane**, **tobacco**, **cotton**, and more
 		- [[Encomiendas]] were the first major labor system imposed
 		- The **caste** system was established in the mid-1500s, and divided the people in the colonies based on their race
 			- Generally, native Spaniards were at the top, mixed people were on the middle, and the native Americans were at the bottom
 ![colonial class system|312](https://study.com/cimages/multimages/16/colonial_class_systemf56ba2cc-e951-4916-ac90-c4f75760c94e.png)[^1]
+- This era of economic expansion played a big role in replacing [feudalism](https://simple.wikipedia.org/wiki/Feudalism) with [capitalism](https://simple.wikipedia.org/wiki/Capitalism)
 ## God (Religious Expansion)
 - Most of Europe was **Christian**, specifically Roman Catholic
 - The **Protestant Reformation** caused Europe to be polarized between Protestant and Catholic countries
@@ -43,6 +43,8 @@ Spanish monarchs **Ferdinand** and **Isabella** funded Cristopher Columbus' expe
 # Debates
 - **Juan de Sepulveda** was a Spanish scholar that published a book called *Just Causes for War Against the Indians*
 	- It justified the Spanish oppression of Natives by describing them as barbarians and that they needed to be civilized by Christian Europeans
+	- **The black legend** was a historical narrative that portrayed Spain as cruel and greedy, spread by rival empires in Europe (specially the English)
+		- Not very true because Spain's colonization did have some positive effects, and they did eventually try to fix their oppressive systems
 - [[Encomiendas#Bartolomé de las Casas|Bartolomé de las Casas]] argued that natives should be treated fairly
 - The **Valladolid debate** was held between the both of them in 1550-1551, but there was no clear winner
 # Resources
