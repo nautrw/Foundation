@@ -9,7 +9,7 @@
 - Mostly subsistence farming of [[Maize|maize]]
 - Celebrated the first Thanksgiving in 1621 after the local native Americans helped them adapt to the land (half of them starved to death in the first winter)
 ## Massachusetts Bay Colony
-- Founded in 1629 by a group of [[Religious Groups from England#Puritans|Puritans]] led by **John Winthrop**
+- Founded as a [[Types of Colonies|charter colony]] in 1629 by a group of [[Religious Groups from England#Puritans|Puritans]] led by **John Winthrop**
 - Settled by family groups
 - Wanted a society based on Biblical principles
 - All free men that owned land could vote on policy
@@ -18,6 +18,7 @@
 	- Majority rule
 - **John Winthrop** led a thousand [[AP United States History/Period 2 (1607-1754)/Religious Groups from England|Puritans]] and founded **Boston** (the capital) in 1630
 - ==This territory included Maine and New Hampshire==
+- **Salem Witchcraft Trials** of 1692
 ## Province of Massachusetts Bay
 - ==Plymouth Colony and Massachusetts Bay Colony merged in 1691==
 - **[[AP United States History/Period 2 (1607-1754)/British Colonies/Types of Colonies|Royal Colony]]**
@@ -33,10 +34,11 @@
 - The community of **Providence (RI)** was established in 1636 after [[AP United States History/Period 2 (1607-1754)/Religious Groups from England|Puritan]] minister **Roger Williams** was banished from Massachusetts Bay Colony for religious reasons
 - **Portsmouth (RI)** was established in 1638 after **Anne Hutchinson** was also banished from Massachusetts Bay Colony for religious reasons
 - Providence and Portsmouth were merged in 1644 to form **Rhode Island** by a charter granted to Roger Williams
+- It was a [[Types of Colonies|charter colony]]
 - Allowed religious freedoms for Catholics, Quakers, and Jews
 - Recognized the rights of native Americans and paid them to use their land
 # Connecticut
-- **Hartford** was founded in 1636 by a group of [[AP United States History/Period 2 (1607-1754)/Religious Groups from England|Puritans]] from Boston led by **Thomas Hooker** 
+- **Hartford** was founded in 1636 by a group of [[AP United States History/Period 2 (1607-1754)/Religious Groups from England|Puritans]] from Boston led by **Thomas Hooker** (a [[Types of Colonies|charter]] colony)
 	- Established the **Fundamental Orders of Connecticut** in 1639, the first constitution in American History
 		- A representative government with an elected legislature and a governor chosen by the legislature
 - **New Haven** was founded by **John Davenport** in 1637

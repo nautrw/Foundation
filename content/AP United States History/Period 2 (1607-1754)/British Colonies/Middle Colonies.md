@@ -21,6 +21,7 @@
 - [[Types of Colonies|Proprietary]] colony founded by **William Penn (Sr.)** in 1681
 - Land was left to **William Penn (Jr.)**
 - He made it a safe haven for [[Religious Groups from England#Quakers|Quaker]] and other religions
+- Treated native Americans fairly
 - **Frame of Government** (1682-83) was a framework for a government with a representative assembly elected by landowners
 - **Charter Of Liberties** (1701) guarantees freedom of worship and unrestricted immigration
 - Attracted settlers by promising religious freedom and good terms for land ownership

@@ -1,3 +1,4 @@
-- **Corporate** - Operated by [[Joint-Stock Companies|joint-stock companies]]
+- **Charter** - Run by elected legislatures, mostly independent from the king
+	- **Corporate** - Operated by [[Joint-Stock Companies|joint-stock companies]]
 - **Royal** - Under direct rule of the king
 - **Proprietary** - Under the authority of people that were granted ownership charters by the king

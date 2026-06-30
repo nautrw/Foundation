@@ -1,21 +1,44 @@
 ---
 title: 🚢 Period 2 (1607-1754)
 ---
+# Important Information
+- **Mercantilism** is an economic system in which gold is prioritized and exports are maximized while imports are minimized
+	- The **Navigation acts** were passed by Britain to enforce mercantilism
+		- Goods going to British [[AP United States History/Period 2 (1607-1754)/British Colonies/index|colonies]] had to be brought on British ships run by British sailors
+- **Salutary Neglect** was an informal British policy in which British laws weren't really enforced in the [[AP United States History/Period 2 (1607-1754)/British Colonies/index|colonies]] and they just kind of ran themselves and had legislative bodies
+- **First great awakening** of the 1730s is caused by geographical separation from Britain
+	- More individualism in worship and emotional preachers
+	- Caused the formation of denominations like Baptists and Methodists
+- **Zanger trial** of 1733 allows the newspaper to criticize the royal governor
+	- Set a precedent for freedom of the press
 # Timeline
+- **1565**: Spain establishes [[Spanish Colonies#Florida|St. Augustine]] colony
 - ==1607==: [[Early English Colonization#Jamestown|Jamestown]], and thus the [[Southern Colonies#Virginia|Virginia colony]] established
+- **1608**: [[French Colonies#Quebec|Quebec]] founded by France
+- **1609**: [[Dutch Colonies|Hudson River claimed for the Netherlands]]
+- **1610**: Spain establishes [[Spanish Colonies#New Mexico & Arizona|Santa Fe]]
 - **1619**: [[Southern Colonies#Virginia|House of Burgesses]] established, first representative assembly in America
 - ==1620==: [[New England Colonies#Plymouth Colony|Plymouth Colony]] founded, establishes Mayflower Compact
 - ==1629==: [[AP United States History/Period 2 (1607-1754)/British Colonies/New England Colonies|Massachusetts Bay Colony]] founded
 - ==1632==: [[Southern Colonies#Maryland|Maryland]] founded by George Calvert
+- **1636-1638**: [[Native American Conflicts#Pequot War|Pequot war]]
 - ==1644==: [[New England Colonies#Rhode Island|Rhode Island]] colony established by merging Providence and Portsmouth
-- ==1664==: English take over New Amsterdam from the Dutch, found [[Middle Colonies#New York|New York]] colony
+- ==1664==: English take over [[Dutch Colonies|New Amsterdam]] from the [[AP United States History/Period 2 (1607-1754)/Dutch Colonies|Dutch]], found [[Middle Colonies#New York|New York]] colony
 	- [[AP United States History/Period 2 (1607-1754)/British Colonies/Middle Colonies|New Jersey]] split from [[AP United States History/Period 2 (1607-1754)/British Colonies/Middle Colonies|New York]] by James II
 - ==1665==: [[New England Colonies#Connecticut|Connecticut]] founded by merging New Haven and Hartford
+- **1675-1676**: [[Native American Conflicts#King Philip's War|King Philip's War]]
+- **1676**: [[Southern Colonies#Bacon's Rebellion|Bacon's Rebellion]]
 - ==1679==: [[New England Colonies#New Hampshire|New Hampshire]] colony separated from [[AP United States History/Period 2 (1607-1754)/British Colonies/New England Colonies|Massachusetts Bay Colony]]
+- **1680**: [[Native American Conflicts#Pueblo Revolt|Pueblo revolt]]
 - ==1681==: [[Middle Colonies#Pennsylvania|Pennsylvania]] founded by William Penn Sr.
+- **1682**: France claims [[French Colonies#Louisiana|Louisiana]]
 - ==1691==: [[AP United States History/Period 2 (1607-1754)/British Colonies/New England Colonies|Plymouth]] Colony and [[AP United States History/Period 2 (1607-1754)/British Colonies/New England Colonies|Massachusetts Bay Colony]] merged into Massachusetts colony
+- **1699**: [[French Colonies#Louisiana|Louisiana]] becomes an official French colony
 - ==1702==: [[Middle Colonies#New Jersey|New Jersey]] established as a [[AP United States History/Period 2 (1607-1754)/British Colonies/Types of Colonies|royal]] colony
 - ==1712==: [[AP United States History/Period 2 (1607-1754)/British Colonies/Southern Colonies|Province of Carolina]] split into [[Southern Colonies#North Carolina|North Carolina]] and [[Southern Colonies#South Carolina|South Carolina]]
+- **1718**: [[French Colonies#New Orleans|New Orleans]] colony established by France
 - **1729**: [[AP United States History/Period 2 (1607-1754)/British Colonies/Southern Colonies|North Carolina]] and [[AP United States History/Period 2 (1607-1754)/British Colonies/Southern Colonies|South Carolina]] actually split and become separate [[AP United States History/Period 2 (1607-1754)/British Colonies/Types of Colonies|royal]] colonies
-- ==1732==: Georgia founded by James Oglethorpe
-- ==1776==: Delaware becomes its own colony
+- ==1732==: [[AP United States History/Period 2 (1607-1754)/British Colonies/Southern Colonies|Georgia]] founded by James Oglethorpe
+- **1733**: [[#Important Information|Zanger trial]]
+- **1769**: [[Spanish Colonies#California|San Diego]] established by [[AP United States History/Period 2 (1607-1754)/Spanish Colonies|Spain]]
+- ==1776==: [[AP United States History/Period 2 (1607-1754)/British Colonies/Middle Colonies|Delaware]] becomes its own colony
