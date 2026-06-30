@@ -1,5 +1,5 @@
 ---
-title: 🌎 Period 1 (1491-1607)
+title: 🌽 Period 1 (1491-1607)
 ---
 # Timeline
 ## Background, [[Major Cultural Regions of North America|Pre-Columbian Societies]]

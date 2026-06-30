@@ -1,6 +1,8 @@
 # Chesapeake Colonies
 - A subset of the Southern Colonies
 - Composed of Virginia and Maryland
+- Had lots of fertile soil, making tobacco very profitable
+- A lot of labor came from indentured servants
 ## Virginia
 - Founded in 1607 as a [[Types of Colonies|corporate]] colony operated by [[Joint-Stock Companies#The Virginia Company|The Virginia Company]]
 - Started out as [[Early English Colonization#Jamestown|Jamestown]]
@@ -13,6 +15,9 @@
 	- The first representative assembly in America
 	- White male landowners called burgesses were elected to pass laws on taxes, defense, and local affairs
 	- Voting was limited to male landowners
+- **Bacon's Rebellion** was led by **Nathaniel Bacon** against the governor in 1676
+	- They wanted harsher policies against the native Americans but the governor refused
+	- Caused planters to turn to the slave trade
 ## Maryland
 - **[[AP United States History/Period 2 (1607-1754)/British Colonies/Types of Colonies|Proprietary]]** colony founded by **George Calvert** (or **Lord Baltimore**) in 1632
 - Passed down to **Cecil Calvert** in 1634

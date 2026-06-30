@@ -1,5 +1,5 @@
 ---
-title: 🚩 Period 2 (1607-1754)
+title: 🚢 Period 2 (1607-1754)
 ---
 # Timeline
 - ==1607==: [[Early English Colonization#Jamestown|Jamestown]], and thus the [[Southern Colonies#Virginia|Virginia colony]] established

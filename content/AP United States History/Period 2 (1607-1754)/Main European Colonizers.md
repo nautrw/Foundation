@@ -5,6 +5,7 @@
 	- [[Encomiendas|Encomienda]] system subjugates native populations into slave labor
 - Missionaries sent to convert the natives to Catholicism
 - [[Spanish Exploration in the Americas#Gold (Economic Development)|Caste system]] established to divide the societies by race
+- See [[Spanish Colonies]]
 # France
 - Sent few colonists but many traders
 - Main goal was to build trading posts and form economic alliances

@@ -1,3 +1,6 @@
+- Generally fertile soil and moderate climate
+- Known as the **breadbasket** colonies
+- Exported lots of wheat and cereals
 # New York
 - The English peacefully took over **New Amsterdam** in 1664 from the Dutch
 - **New York** was founded in 1664 when the king (Charles II) granted James II (as of then the Duke of York but he became king James II) the land
