@@ -9,6 +9,8 @@ title: 🚢 Period 2 (1607-1754)
 - **First great awakening** of the 1730s is caused by geographical separation from Britain
 	- More individualism in worship and emotional preachers
 	- Caused the formation of denominations like Baptists and Methodists
+	- **Jonathan Edwards** believed that God was vengeful and angry and demanded repentance
+	- **George Whitefield** encouraged people to form personal relations with God
 - **Zanger trial** of 1733 allows the newspaper to criticize the royal governor
 	- Set a precedent for freedom of the press
 # Timeline
